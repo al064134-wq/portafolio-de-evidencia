@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portafolio-de-evidencia/static/css/main.25a3dd8f.css",
+    "main.js": "/portafolio-de-evidencia/static/js/main.f7b7ca29.js",
+    "static/js/453.97d83039.chunk.js": "/portafolio-de-evidencia/static/js/453.97d83039.chunk.js",
+    "index.html": "/portafolio-de-evidencia/index.html",
+    "main.25a3dd8f.css.map": "/portafolio-de-evidencia/static/css/main.25a3dd8f.css.map",
+    "main.f7b7ca29.js.map": "/portafolio-de-evidencia/static/js/main.f7b7ca29.js.map",
+    "453.97d83039.chunk.js.map": "/portafolio-de-evidencia/static/js/453.97d83039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a3dd8f.css",
+    "static/js/main.f7b7ca29.js"
+  ]
+}
